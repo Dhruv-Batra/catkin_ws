@@ -1,0 +1,2 @@
+beginner_tutorials:helloworld:rqt_mypkg:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/dhruvbatra2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dhruvbatra2/catkin_ws/install -G Unix Makefiles

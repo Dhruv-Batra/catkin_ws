@@ -1,0 +1,8 @@
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/rebuild_cache.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/edit_cache.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/upload.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/hello-upload.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/hello-size.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/hello.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/uno_Servo.dir
+/home/dhruvbatra2/catkin_ws/build/helloworld/firmware/CMakeFiles/uno_CORE.dir
